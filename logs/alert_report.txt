@@ -1,0 +1,35 @@
+=== Smart Street Light Alert Report ===
+Street  : 1
+Nodes   : 5 lamp posts
+Started : 1774929534
+========================================
+[1774929534] CRITICAL | Street=1 Node=1 | FaultCode=1 | Priority=4 | Street 1 Node 1: Sensor failure (lux=0, motion=0)
+[1774929538] CRITICAL | Street=1 Node=4 | FaultCode=1 | Priority=4 | Street 1 Node 4: Sensor failure (lux=0, motion=0)
+[1774929544] CRITICAL | Street=1 Node=3 | FaultCode=1 | Priority=4 | Street 1 Node 3: Sensor failure (lux=0, motion=0)
+[1774929554] SUMMARY | Street=1 Nodes ON=5/5 Faults=3 CRIT=3 HIGH=0 MED=0 LOW=7
+[1774929554] MEDIUM   | Street=1 Node=3 | FaultCode=3 | Priority=2 | Street 1 Node 3: Light ON in daylight (lux=91)
+[1774929562] MEDIUM   | Street=1 Node=4 | FaultCode=3 | Priority=2 | Street 1 Node 4: Light ON in daylight (lux=86)
+[1774929572] MEDIUM   | Street=1 Node=1 | FaultCode=3 | Priority=2 | Street 1 Node 1: Light ON in daylight (lux=89)
+[1774929574] SUMMARY | Street=1 Nodes ON=4/5 Faults=6 CRIT=3 HIGH=0 MED=3 LOW=11
+[1774929576] CRITICAL | Street=1 Node=4 | FaultCode=1 | Priority=4 | Street 1 Node 4: Sensor failure (lux=0, motion=0)
+[1774929578] MEDIUM   | Street=1 Node=1 | FaultCode=3 | Priority=2 | Street 1 Node 1: Light ON in daylight (lux=92)
+[1774929578] MEDIUM   | Street=1 Node=2 | FaultCode=3 | Priority=2 | Street 1 Node 2: Light ON in daylight (lux=87)
+[1774929580] CRITICAL | Street=1 Node=2 | FaultCode=1 | Priority=4 | Street 1 Node 2: Sensor failure (lux=0, motion=0)
+[1774929580] MEDIUM   | Street=1 Node=5 | FaultCode=3 | Priority=2 | Street 1 Node 5: Light ON in daylight (lux=100)
+[1774929588] MEDIUM   | Street=1 Node=2 | FaultCode=3 | Priority=2 | Street 1 Node 2: Light ON in daylight (lux=97)
+[1774929594] SUMMARY | Street=1 Nodes ON=4/5 Faults=12 CRIT=5 HIGH=0 MED=7 LOW=16
+[1774929600] CRITICAL | Street=1 Node=4 | FaultCode=1 | Priority=4 | Street 1 Node 4: Sensor failure (lux=0, motion=0)
+[1774929602] MEDIUM   | Street=1 Node=4 | FaultCode=3 | Priority=2 | Street 1 Node 4: Light ON in daylight (lux=90)
+[1774929602] MEDIUM   | Street=1 Node=5 | FaultCode=3 | Priority=2 | Street 1 Node 5: Light ON in daylight (lux=89)
+[1774929604] MEDIUM   | Street=1 Node=5 | FaultCode=3 | Priority=2 | Street 1 Node 5: Light ON in daylight (lux=89)
+[1774929608] CRITICAL | Street=1 Node=4 | FaultCode=1 | Priority=4 | Street 1 Node 4: Sensor failure (lux=0, motion=0)
+[1774929614] SUMMARY | Street=1 Nodes ON=3/5 Faults=17 CRIT=7 HIGH=0 MED=10 LOW=20
+[1774929614] MEDIUM   | Street=1 Node=3 | FaultCode=3 | Priority=2 | Street 1 Node 3: Light ON in daylight (lux=90)
+[1774929620] MEDIUM   | Street=1 Node=5 | FaultCode=3 | Priority=2 | Street 1 Node 5: Light ON in daylight (lux=81)
+[1774929622] CRITICAL | Street=1 Node=4 | FaultCode=1 | Priority=4 | Street 1 Node 4: Sensor failure (lux=0, motion=0)
+[1774929622] MEDIUM   | Street=1 Node=2 | FaultCode=3 | Priority=2 | Street 1 Node 2: Light ON in daylight (lux=90)
+[1774929634] SUMMARY | Street=1 Nodes ON=3/5 Faults=21 CRIT=8 HIGH=0 MED=13 LOW=27
+[1774929634] MEDIUM   | Street=1 Node=3 | FaultCode=3 | Priority=2 | Street 1 Node 3: Light ON in daylight (lux=98)
+[1774929634] MEDIUM   | Street=1 Node=3 | FaultCode=3 | Priority=2 | Street 1 Node 3: Light ON in daylight (lux=98)
+[1774929634] MEDIUM   | Street=1 Node=4 | FaultCode=3 | Priority=2 | Street 1 Node 4: Light ON in daylight (lux=86)
+[1774929636] MEDIUM   | Street=1 Node=5 | FaultCode=3 | Priority=2 | Street 1 Node 5: Light ON in daylight (lux=86)

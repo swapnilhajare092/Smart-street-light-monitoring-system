@@ -1,0 +1,6 @@
+[1774927828] Street=1 Nodes ON=3/5 Faults=8 CRIT=5 HIGH=0 MED=3 LOW=9
+[1774927858] Street=1 Nodes ON=4/5 Faults=19 CRIT=9 HIGH=0 MED=10 LOW=21
+[1774927971] Street=1 Nodes ON=1/5 Faults=9 CRIT=4 HIGH=0 MED=5 LOW=9
+[1774929564] Lights ON: 5/5  Faults: 5
+[1774929594] Lights ON: 4/5  Faults: 12
+[1774929624] Lights ON: 5/5  Faults: 21
